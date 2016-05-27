@@ -7,4 +7,4 @@ Looking into connecting ComfortMaxx to our Salesforce Org's database.
 
 It looks like we can simply set up a relationship with the instantiated Hashie::Mash objects and check everything we need to directly without having to sync or make HTTP Requests.
 
-May want to figure out how that will affect the API Calls limit though!
+May want to figure out how that will affect the API Calls limit though!  Probably going to destroy our API Call limit :/
