@@ -43,7 +43,7 @@ And we are going to create a Location for this Customer that just so happens to 
 **How it worked before**
 
 When we pulled up the Aaron Aaronson customer and clicked "New Location"
-Since we're wanting to create a Location that is the same as our Customer's Billing Details, we would have to click the "Use Billing Details" button to get the Street Address, City, Country, State/Provicne, and Postal Code populated correctly.
+Since we're wanting to create a Location that is the same as our Customer's Billing Details, we would have to click the "Use Billing Details" button to get the Street Address, City, Country, State/Province, and Postal Code populated correctly.
 
 ![alt text](https://github.com/stevenmholt/cmnotes/blob/master/images/NewLocation-PopDet-Before.png "New Location Before")
 
