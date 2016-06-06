@@ -45,9 +45,12 @@ And we are going to create a Location for this Customer that just so happens to 
 When we pulled up the Aaron Aaronson customer and clicked "New Location"
 Since we're wanting to create a Location that is the same as our Customer's Billing Details, we would have to click the "Use Billing Details" button to get the Street Address, City, Country, State/Provicne, and Postal Code populated correctly.
 
+![alt text](../images/NewLocation-PopDet-Before.png "New Location Before")
 
 **How it works after**
 
 Now when we pull up the Aaron Aaronson Customer and click "New Location", we see that there is a checkbox for "Same as customer's billing details" and it is already checked!
 
 All we have left to do now is enter a Location Name, select the Type of location, and enter a Contact Name and Contact Phone Number then click "Save Location"
+
+![alt text](../images/NewLocation-PopDet-After-Check.png "New Location After, Unchecked")
