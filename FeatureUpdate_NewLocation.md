@@ -1,4 +1,4 @@
-#Updated process for populating address information for a new location.
+#Updated process for populating address information for a new location
 
 ###What?
 
