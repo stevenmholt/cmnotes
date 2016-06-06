@@ -14,7 +14,7 @@ We also had users experience an issue when the Customer's Billing Details were i
 
 This led us to re-examine the process and deliver a solution that fixes edge-case issues while also making life easier on the rest of the users.
 
-######Here's the setup
+#####Here's the setup
 
 We have a Customer:
 ```
@@ -50,4 +50,4 @@ Since we're wanting to create a Location that is the same as our Customer's Bill
 
 Now when we pull up the Aaron Aaronson Customer and click "New Location", we see that there is a checkbox for "Same as customer's billing details" and it is already checked!
 
-All we have left to do now is enter a Location Name, select the Type of location, and enter a Contact Name and Contact Phone Number then click "Save Location".
+All we have left to do now is enter a Location Name, select the Type of location, and enter a Contact Name and Contact Phone Number then click "Save Location"
