@@ -54,3 +54,5 @@ Now when we pull up the Aaron Aaronson Customer and click "New Location", we see
 All we have left to do now is enter a Location Name, select the Type of location, and enter a Contact Name and Contact Phone Number then click "Save Location"
 
 ![alt text](https://github.com/stevenmholt/cmnotes/blob/master/images/NewLocation-PopDet-After-Check.png "New Location After, Check")
+
+![alt text](https://github.com/stevenmholt/cmnotes/blob/master/images/NewLocation-PopDet-After-Uncheck.png "New Location After, Uncheck")
